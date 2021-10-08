@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 I am currently a master student at Nanyang Technological University. 
-I have the honor to be advised by Prof Shuicheng Yan, Prof Hanwang Zhang, Prof Anh Tuan Luu, and Prof Rongrong Ji. 
+I am  honored to be advised by Prof Shuicheng Yan, Prof Hanwang Zhang, Prof Anh Tuan Luu, and Prof Rongrong Ji. 
 
 My research interests lie in adversarial machine learning and causal inference in machine learning.
 
@@ -50,4 +50,4 @@ Email: [dongxinshuai[AT]outlook[DOT]com](mailto:dongxinshuai@outlook.com)
 
 ---
 
-<a href='https://clustrmaps.com/site/1bkfr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=150&t=n&d=S1V77A2LG8nEgR2cXpLbOxQn_4f0ACm7qvJJ_0vThA0&co=459edd'/></a>
+<a href='https://clustrmaps.com/site/1bkfr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=100&t=tt&d=S1V77A2LG8nEgR2cXpLbOxQn_4f0ACm7qvJJ_0vThA0&co=459edd'/></a>
