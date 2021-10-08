@@ -1,15 +1,15 @@
 title: Xinshuai Dong
 url: "https://dongxinshuai.github.io"
-baseurl: "/about"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page"
+#footer: yes
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page"
 
 
 sass:
@@ -17,9 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "about"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=A7JyL1sAAAAJ&hl=en"
 # - name: "Resume"
 #   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "GitHub"
+   link: "https://github.com/dongxinshuai"
