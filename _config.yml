@@ -1,6 +1,6 @@
 title: Xinshuai Dong
 url: "https://dongxinshuai.github.io"
-baseurl: "/researcher"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "about"
 # - name: "Resume"
 #   link: "resume.pdf"
  - name: "Contact"
