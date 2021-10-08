@@ -50,4 +50,4 @@ Email: [dongxinshuai[AT]outlook[DOT]com](mailto:dongxinshuai@outlook.com)
 
 ---
 
-<a href='https://clustrmaps.com/site/1bkfr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=100&t=tt&d=S1V77A2LG8nEgR2cXpLbOxQn_4f0ACm7qvJJ_0vThA0&co=459edd'/></a>
+<a href='https://clustrmaps.com/site/1bkfr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=S1V77A2LG8nEgR2cXpLbOxQn_4f0ACm7qvJJ_0vThA0&co=459edd'/></a>
