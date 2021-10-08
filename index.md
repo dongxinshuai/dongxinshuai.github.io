@@ -8,8 +8,7 @@ layout: default
 
 I am currently a master student at Nanyang Technological University. 
 I am  honored to be advised by Prof Shuicheng Yan, Prof Hanwang Zhang, Prof Anh Tuan Luu, and Prof Rongrong Ji. 
-
-My research interests lie in adversarial machine learning and causal inference in machine learning.
+My research interests lie in adversarial machine learning and causality-based machine learning.
 
 ## Publications
 
