@@ -25,7 +25,7 @@ Towards Robustness Against Natural Language Word Substitutions.
 How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?
 
 
-## EDUCATIONS
+## Educations
 
 Nanyang Technological University\
 Master, School of Computer Science and Engineering
@@ -33,19 +33,19 @@ Master, School of Computer Science and Engineering
 Xiamen University\
 Bachelor of Engineering in Automation
 
-## EXPERIENCES
+## Experiences
 
 Central Media Technology Institute, HUAWEI TECHNOLOGIES CO. LTD
 
 Sea AI Lab, SEA LTD
 
-## SERVICES
+## Services
 
 NeurIPS 2021 Reviewer
 
 ICLR 2022 Reviewer
 
-## CONTACT
+## Contact
 Email: [dongxinshuai[AT]outlook[DOT]com](mailto:dongxinshuai@outlook.com)
 
 ---
