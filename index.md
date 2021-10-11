@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 I am currently a master student at Nanyang Technological University. 
-I am  honored to be advised by Prof Shuicheng Yan, Prof Hanwang Zhang, Prof Anh Tuan Luu, and Prof Rongrong Ji. 
+I am  honored to be advised by [Prof Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=zh-CN). 
 
 My research interests lie in adversarial machine learning and causality-based machine learning.
 
