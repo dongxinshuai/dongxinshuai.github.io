@@ -46,7 +46,7 @@ NeurIPS 2021 Reviewer
 ICLR 2022 Reviewer
 
 ## Contact
-Email: [dongxinshuai[AT]outlook[DOT]com](mailto:dongxinshuai@outlook.com)
+Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg
 
 ---
 
