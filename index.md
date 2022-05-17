@@ -23,7 +23,7 @@ Towards Robustness Against Natural Language Word Substitutions.
 [NeurIPS 2021] Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang.
 How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?
 
-[ICML 2022] Haiteng Zhao*, Chang Ma*, Xinshuai Dong*, Anh Tuan Luu, Zhi Hong Deng, Hanwang Zhang.
+[ICML 2022] Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi Hong Deng, Hanwang Zhang.
 Certified Robustness Against Natural Language Attacks by Causal Intervention.
 
 ## Educations
