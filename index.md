@@ -6,10 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I am currently a master student at Nanyang Technological University. 
-I am  honored to be advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
-
-My research interests lie in adversarial machine learning and causality-based machine learning.
+I am currently a PhD student at Carnegie Mellon University advised by Prof Kun Zhang. I was advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
 
 ## Publications
 
@@ -26,13 +23,19 @@ How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustn
 [ICML 2022] Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi Hong Deng, Hanwang Zhang.
 Certified Robustness Against Natural Language Attacks by Causal Intervention.
 
+[EMNLP 2022] Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong.
+Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning.
+
+[AAAI 2023] Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Chaoqun Liu, Liang-Ming Pan, Anh Tuan Luu.
+InfoCTM: A Mutual Information Maximization Perspective of Cross-lingual Topic Modeling.
+
 ## Educations
 
-Nanyang Technological University\
-Master, School of Computer Science and Engineering
+Carnegie Mellon University
 
-Xiamen University\
-Bachelor of Engineering in Automation
+Nanyang Technological University
+
+Xiamen University
 
 ## Experiences
 
@@ -42,12 +45,12 @@ Sea AI Lab, SEA LTD
 
 ## Services
 
-ICML 2022 Reviewer
+ICML 2022,2023 Reviewer
 NeurIPS 2021,2022 Reviewer
-ICLR 2022 Reviewer
+ICLR 2022,2023 Reviewer
 
 ## Contact
-Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg
+Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
 
 ---
 
