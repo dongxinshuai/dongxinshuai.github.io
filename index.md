@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I am currently a PhD student at Carnegie Mellon University advised by Prof Kun Zhang. I was advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
+I am currently a Ph.D. student at Carnegie Mellon University. I am fortunate to be advised by Prof Kun Zhang and Prof Peter Spirtes. I was fortunate to be advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
 
 ## Publications
 
@@ -29,6 +29,12 @@ Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contras
 [AAAI 2023] Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Chaoqun Liu, Liang-Ming Pan, Anh Tuan Luu.
 InfoCTM: A Mutual Information Maximization Perspective of Cross-lingual Topic Modeling.
 
+[ICML 2023] Xiaobao Wu, Xinshuai Dong, Thong Thanh Nguyen, Anh Tuan Luu.
+Effective Neural Topic Modeling with Embedding Clustering Regularization.
+
+[ACL Findings 2023] Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T. Nguyen, Zhen Hai, Lidong Bing, Anh Tuan Luu.
+Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.
+
 ## Educations
 
 Carnegie Mellon University
@@ -46,8 +52,8 @@ Sea AI Lab, SEA LTD
 ## Services
 
 ICML 2022,2023 Reviewer
-NeurIPS 2021,2022 Reviewer
-ICLR 2022,2023 Reviewer
+NeurIPS 2021,2022,2023 Reviewer
+ICLR 2022,2023,2024 Reviewer
 
 ## Contact
 Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
