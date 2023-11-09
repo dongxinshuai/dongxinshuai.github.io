@@ -35,6 +35,12 @@ Effective Neural Topic Modeling with Embedding Clustering Regularization.
 [ACL Findings 2023] Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T. Nguyen, Zhen Hai, Lidong Bing, Anh Tuan Luu.
 Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.
 
+[NeurIPS 2023] Ignavier Ng, Yujia Zheng, Xinshuai Dong, Kun Zhang.
+On the Identifiability of Sparse ICA without Assuming Non-Gaussianity.
+
+[NeurIPS 2023] Xiangchen Song, Weiran Yao, Yewen Fan, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, Kun Zhang.
+Temporally Disentangled Representation Learning under Unknown Nonstationarity.
+
 ## Educations
 
 Carnegie Mellon University
