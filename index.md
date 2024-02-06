@@ -10,8 +10,7 @@ I am currently a Ph.D. student at Carnegie Mellon University. I am fortunate to 
 
 ## Publications
 
-[ECCV 2020] 
-Xinshuai Dong, Hong Liu, Liujuan Cao, Rongrong Ji, Qixiang Ye, Jianzhuang Liu, and Qi Tian.
+[ECCV 2020] Xinshuai Dong, Hong Liu, Liujuan Cao, Rongrong Ji, Qixiang Ye, Jianzhuang Liu, and Qi Tian.
 API-Net: Robust Generative Classifier via a Single Discriminator.
 
 [ICLR 2021] Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, and Hong Liu. 
@@ -35,11 +34,21 @@ Effective Neural Topic Modeling with Embedding Clustering Regularization.
 [ACL Findings 2023] Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T. Nguyen, Zhen Hai, Lidong Bing, Anh Tuan Luu.
 Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.
 
+[EMNLP Findings 2023] Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy Nguyen, See Kiong Ng, Anh Luu. DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding.
+
 [NeurIPS 2023] Ignavier Ng, Yujia Zheng, Xinshuai Dong, Kun Zhang.
 On the Identifiability of Sparse ICA without Assuming Non-Gaussianity.
 
 [NeurIPS 2023] Xiangchen Song, Weiran Yao, Yewen Fan, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, Kun Zhang.
 Temporally Disentangled Representation Learning under Unknown Nonstationarity.
+
+[AAAI 2024] Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Khoi Le, Zhiyuan Hu, Cong-Duy Nguyen, See-Kiong Ng, Luu Anh Tuan. READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling.
+
+[ICLR 2024] Songyao Jin, Feng Xie, Guangyi Chen, Biwei Huang, Zhengming Chen, Xinshuai Dong, Kun Zhang. Structural Estimation of Partially Observed Linear Non-Gaussian Acyclic Model: A Practical Approach with Identifiability.
+
+[ICLR 2024] Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu. Topic modeling as multi-objective optimization with Setwise Contrastive Learning.
+
+[ICLR 2024] Xinshuai Dong, Biwei Huang, Ignavier Ng, Xiangchen Song, Yujia Zheng, Songyao Jin, Roberto Legaspi, Peter Spirtes, Kun Zhang. A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables.
 
 ## Educations
 
