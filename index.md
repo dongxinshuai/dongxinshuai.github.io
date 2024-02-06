@@ -66,7 +66,7 @@ Sea AI Lab, SEA LTD
 
 ## Services
 
-ICML 2022,2023 Reviewer
+ICML 2022,2023,2024 Reviewer
 NeurIPS 2021,2022,2023 Reviewer
 ICLR 2022,2023,2024 Reviewer
 
