@@ -19,7 +19,7 @@ Towards Robustness Against Natural Language Word Substitutions.
 [NeurIPS 2021] Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang.
 How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?
 
-[ICML 2022] Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi Hong Deng, Hanwang Zhang.
+[ICML 2022] Haiteng Zhao*, Chang Ma*, Xinshuai Dong*, Anh Tuan Luu, Zhi Hong Deng, Hanwang Zhang.
 Certified Robustness Against Natural Language Attacks by Causal Intervention.
 
 [EMNLP 2022] Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong.
@@ -48,7 +48,11 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [ICLR 2024] Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu. Topic modeling as multi-objective optimization with Setwise Contrastive Learning.
 
-[ICLR 2024] Xinshuai Dong, Biwei Huang, Ignavier Ng, Xiangchen Song, Yujia Zheng, Songyao Jin, Roberto Legaspi, Peter Spirtes, Kun Zhang. A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables.
+[ICLR 2024] Xinshuai Dong*, Biwei Huang*, Ignavier Ng, Xiangchen Song, Yujia Zheng, Songyao Jin, Roberto Legaspi, Peter Spirtes, Kun Zhang. A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables.
+
+[ICML 2024] Ignavier Ng*, Xinshuai Dong*, Haoyue Dai, Biwei Huang, Peter Spirtes, Kun Zhang. Score-Based Causal Discovery of Latent Variable Causal Models.
+
+[ECCV 2024] Thong Nguyen, Yi Bin, Xiaobao Wu, Xinshuai Dong, Zhiyuan Hu, Khoi Le, Cong-Duy Nguyen, See Kiong Ng, Luu Anh Tuan. Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning.
 
 ## Educations
 
@@ -66,9 +70,9 @@ Sea AI Lab, SEA LTD
 
 ## Services
 
-ICML 2022,2023,2024 Reviewer
-NeurIPS 2021,2022,2023 Reviewer
-ICLR 2022,2023,2024 Reviewer
+ICML 2022-2024 Reviewer
+NeurIPS 2021-2024 Reviewer
+ICLR 2022-2024 Reviewer
 
 ## Contact
 Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
