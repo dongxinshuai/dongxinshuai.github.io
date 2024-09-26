@@ -42,6 +42,8 @@ On the Identifiability of Sparse ICA without Assuming Non-Gaussianity.
 [NeurIPS 2023] Xiangchen Song, Weiran Yao, Yewen Fan, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, Kun Zhang.
 Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
+[ACL Findings 2024] Xiaobao Wu, Xinshuai Dong, Liangming Pan, Thong Nguyen, Anh Tuan Luu. Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion.
+
 [AAAI 2024] Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Khoi Le, Zhiyuan Hu, Cong-Duy Nguyen, See-Kiong Ng, Luu Anh Tuan. READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling.
 
 [ICLR 2024] Songyao Jin, Feng Xie, Guangyi Chen, Biwei Huang, Zhengming Chen, Xinshuai Dong, Kun Zhang. Structural Estimation of Partially Observed Linear Non-Gaussian Acyclic Model: A Practical Approach with Identifiability.
@@ -53,6 +55,12 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 [ICML 2024] Ignavier Ng, Xinshuai Dong, Haoyue Dai, Biwei Huang, Peter Spirtes, Kun Zhang. Score-Based Causal Discovery of Latent Variable Causal Models.
 
 [ECCV 2024] Thong Nguyen, Yi Bin, Xiaobao Wu, Xinshuai Dong, Zhiyuan Hu, Khoi Le, Cong-Duy Nguyen, See Kiong Ng, Luu Anh Tuan. Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning.
+
+[NeurIPS 2024] Xinshuai Dong, Ignavier Ng, Biwei Huang, Yuewen Sun, Songyao Jin, Roberto Legaspi, Peter Spirtes, Kun Zhang. On the Parameter Identifiability of Partially Observed Linear Causal Models.
+
+[NeurIPS 2024] Xiangchen Song, Zijian Li, Guangyi Chen, Yewen Zheng, Yujia, Fan, Xinshuai Dong, Kun Zhang. Causal Temporal Representation Learning with Nonstationary Sparse Transition.
+
+[NeurIPS 2024] Yuewen Sun, Biwei Huang, Yu Yao, Donghuo Zeng, Xinshuai Dong, Songyao Jin, Boyang Sun, Roberto Legaspi, Kazushi Ikeda, Peter Spirtes, Kun Zhang. Identifying Latent State Transition Processes for Individualized Reinforcement Learning.
 
 ## Educations
 
