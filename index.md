@@ -62,6 +62,14 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [NeurIPS 2024] Yuewen Sun, Biwei Huang, Yu Yao, Donghuo Zeng, Xinshuai Dong, Songyao Jin, Boyang Sun, Roberto Legaspi, Kazushi Ikeda, Peter Spirtes, Kun Zhang. Identifying Latent State Transition Processes for Individualized Reinforcement Learning.
 
+[ICLR 2025] Haoyue Dai, Ignavier Ng, Jianle Sun, Zeyu Tang, Gongxu Luo, Xinshuai Dong, Peter Spirtes, Kun Zhang. When Selection meets Intervention: Additional Complexities in Causal Discovery.
+
+[ICLR 2025] Zijian Li, Shunxing Fan, Yujia Zheng, Ignavier Ng, Shaoan Xie, Guangyi Chen, Xinshuai Dong, Ruichu Cai, Kun Zhang. Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning.
+
+[AISTATS 2025] Jiaqi Sun, Yujia Zheng, Xinshuai Dong, Haoyue Dai, Kun Zhang. Type Information-Assisted Self-Supervised Knowledge Graph Denoising.
+
+[AISTATS 2025] Ignavier Ng, Shaoan Xie, Xinshuai Dong, Peter Spirtes, Kun Zhang. Causal Representation Learning from General Environments under Nonparametric Mixing.
+
 ## Educations
 
 Carnegie Mellon University
@@ -78,9 +86,9 @@ Sea AI Lab, SEA LTD
 
 ## Services
 
-ICML 2022-2024 Reviewer
+ICML 2022-2025 Reviewer
 NeurIPS 2021-2024 Reviewer
-ICLR 2022-2024 Reviewer
+ICLR 2022-2025 Reviewer
 
 ## Contact
 Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
