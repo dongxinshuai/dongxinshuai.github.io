@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I am currently a Ph.D. student at Carnegie Mellon University. I am fortunate to be advised by Prof Kun Zhang and Prof Peter Spirtes. I was fortunate to be advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
+I am currently a Ph.D. student at Carnegie Mellon University. I am fortunate to be advised by [Prof Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html) and [Prof Peter Spirtes](https://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html). I was fortunate to be advised by [Prof Shuicheng Yan](https://yanshuicheng.ai/), [Prof Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Prof Anh Tuan Luu](https://tuanluu.github.io/), and [Prof Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
 
 ## Publications
 
@@ -70,6 +70,12 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [AISTATS 2025] Ignavier Ng, Shaoan Xie, Xinshuai Dong, Peter Spirtes, Kun Zhang. Causal Representation Learning from General Environments under Nonparametric Mixing.
 
+[ICML 2025] Xinshuai Dong, Ignavier Ng, Boyang Sun, Haoyue Dai, Guang-Yuan Hao, Shunxing Fan, Peter Spirtes, Yumou Qiu, Kun Zhang. Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data.
+
+[ICML 2025] Haoyue Dai, Yiwen Qiu, Ignavier Ng, Xinshuai Dong, Peter Spirtes, Kun Zhang. Latent Variable Causal Discovery under Selection Bias.
+
+[ICML 2025] Boyang Sun, Yu Yao, Xinshuai Dong, Zongfang Liu, Tongliang Liu, Yumou Qiu, Kun Zhang. A Sample Efficient Conditional Independence Test in the Presence of Discretization.
+
 ## Educations
 
 Carnegie Mellon University
@@ -87,7 +93,7 @@ Sea AI Lab, SEA LTD
 ## Services
 
 ICML 2022-2025 Reviewer
-NeurIPS 2021-2024 Reviewer
+NeurIPS 2021-2025 Reviewer
 ICLR 2022-2025 Reviewer
 
 ## Contact
