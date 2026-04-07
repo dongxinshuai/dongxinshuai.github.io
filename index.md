@@ -76,6 +76,13 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [ICML 2025] Boyang Sun, Yu Yao, Xinshuai Dong, Zongfang Liu, Tongliang Liu, Yumou Qiu, Kun Zhang. A Sample Efficient Conditional Independence Test in the Presence of Discretization.
 
+[ICLR 2026] Xinshuai Dong, Ignavier Ng, Haoyue Dai, Jiaqi Sun, Xiangchen Song, Peter Spirtes, Kun Zhang. Score-based Greedy Search for Structure Identification of Partially Observed Linear Causal Models.
+
+[ACL 2026] Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen. Representation Interventions Enable Lifelong Unstructured Knowledge Control.
+
+[ACL 2026] Shaoan Xie, Lingjing Kong, Xiangchen Song, Xinshuai Dong, Guangyi Chen, Eric P Xing, Kun Zhang. Advancing Reasoning in Diffusion Language Models with Denoising Process Rewards
+
+
 ## Educations
 
 Carnegie Mellon University
@@ -92,9 +99,9 @@ Sea AI Lab, SEA LTD
 
 ## Services
 
-ICML 2022-2025 Reviewer
+ICML 2022-2026 Reviewer
 NeurIPS 2021-2025 Reviewer
-ICLR 2022-2025 Reviewer
+ICLR 2022-2026 Reviewer
 
 ## Contact
 Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
