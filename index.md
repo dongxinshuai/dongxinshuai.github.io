@@ -80,8 +80,9 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [ACL 2026] Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen. Representation Interventions Enable Lifelong Unstructured Knowledge Control.
 
-[ACL 2026] Shaoan Xie, Lingjing Kong, Xiangchen Song, Xinshuai Dong, Guangyi Chen, Eric P Xing, Kun Zhang. Advancing Reasoning in Diffusion Language Models with Denoising Process Rewards
+[ACL 2026] Shaoan Xie, Lingjing Kong, Xiangchen Song, Xinshuai Dong, Guangyi Chen, Eric P Xing, Kun Zhang. Advancing Reasoning in Diffusion Language Models with Denoising Process Rewards.
 
+[ICML 2026] Xinshuai Dong, Haoyue Dai, Ignavier Ng, Peter Spirtes, Kun Zhang. Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data.
 
 ## Educations
 
