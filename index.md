@@ -84,6 +84,10 @@ Temporally Disentangled Representation Learning under Unknown Nonstationarity.
 
 [ICML 2026] Xinshuai Dong, Haoyue Dai, Ignavier Ng, Peter Spirtes, Kun Zhang. Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data.
 
+[NeurIPS 2026] Xiangchen Song, Zhenhao Chen, Lingjing Kong, Shaoan Xie, Xinshuai Dong, Guangyi Chen, Kun Zhang. Deployment-Memory LLM Test-Time Training Should Require Behavioral Evidence Beyond Perplexity.
+
+[NeurIPS 2026] Xuyuan Liu, Xinshuai Dong, Elynn Chen, Yujun Yan. When Form Changes but Logic Doesn’t: Building Logic-invariant LLMs through Structures.
+
 ## Educations
 
 Carnegie Mellon University
@@ -105,7 +109,7 @@ NeurIPS 2021-2025 Reviewer
 ICLR 2022-2026 Reviewer
 
 ## Contact
-Email: dongxinshuai[AT]outlook[DOT]com, xinshuai001[AT]e[DOT]ntu[DOT]edu[DOT]sg, xinshuad[AT]andrew[DOT]cmu[DOT]edu
+Email: dongxinshuai[AT]outlook[DOT]com, xinshuad[AT]andrew[DOT]cmu[DOT]edu
 
 ---
 
